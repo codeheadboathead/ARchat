@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717710234294",
+    "project_id": "ar-chat-f577c",
+    "storage_bucket": "ar-chat-f577c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717710234294:android:8e61efa98c0c7b90110c17",
+        "android_client_info": {
+          "package_name": "com.example.archat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717710234294-nhnl5h84dt5rd1tkf65t55gm87sqvnne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDQDHGRuojMm-6oxtUZqzSZRk7wkyyOMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717710234294-nhnl5h84dt5rd1tkf65t55gm87sqvnne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
